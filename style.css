@@ -1,0 +1,16 @@
+body{
+    background-image: url("background.jfif");
+    background-size: cover;
+}
+
+canvas{
+    box-shadow: 10px,10px,10px, grey;
+    background-color: white;
+}
+
+.footer{
+    background-color: lightpink;
+    bottom: 0;
+    position:fixed ;
+    width: 100%;
+}
